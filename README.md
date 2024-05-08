@@ -1,4 +1,4 @@
-# <img src="img/Hooty_Face.jpeg" width="40px" alt="SFU Surge logo" /> Hooty the Riddle Assistant
+# <img src="img/Hooty_Face.jpeg" width="120px" alt="SFU Surge logo" /> Hooty the Riddle Assistant
 
 This is Hooty and he loves riddles. You can ask him for riddles and solutions too.
 
